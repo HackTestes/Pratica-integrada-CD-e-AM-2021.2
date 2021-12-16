@@ -1,4 +1,4 @@
-# Pratica-integrada-CD-e-AM-2021.2-
+# Pratica-integrada-CD-e-AM-2021.2
 
 1. [About The Project](#about-the-project)
     * [Built With](#built-with)
