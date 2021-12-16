@@ -2,7 +2,7 @@
 
 1. [About The Project](#about-the-project)
     * [Built With](#built-with)
-1 [Getting Started](#getting-started)
+1. [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites)
     * [Installation](#installation)
 1. [Usage](#usage)
