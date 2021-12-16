@@ -15,13 +15,15 @@
     </ul>
 </li>
 <li><a href="#usage">Usage</a></li>
-<li><a href="#to do">Roadmap</a></li>
+<li><a href="#todo">Roadmap</a></li>
 <li><a href="#license">License</a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgements">Acknowledgements</a></li>
 </ol>
 
-# To do geral
+
+
+## To do geral
 
 - [ ] Encontrar um aluno de IAM
 - [ ] Configurar os ambientes de desenvolvimento
