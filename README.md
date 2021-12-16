@@ -21,9 +21,6 @@
 <li><a href="#acknowledgements">Acknowledgements</a></li>
 </ol>
 
-* [JQuery](#usage)
-
-
 ## To do geral
 
 - [ ] Encontrar um aluno de IAM
