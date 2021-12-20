@@ -13,7 +13,7 @@
 
 ## To do geral
 
-- [ ] Encontrar um aluno de IAM
+- [x] Encontrar um aluno de IAM
 - [ ] Configurar os ambientes de desenvolvimento
 - [ ] Definir estilo do código (padronização e legibilidade)
 - [ ] Definir como vamos separar as terefas
