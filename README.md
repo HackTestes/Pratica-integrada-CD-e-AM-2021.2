@@ -61,3 +61,8 @@
 - [ ] "Eliminar a variável contendo nome do arquivo" - é dependência de outras tarefas
 - [ ] "Acrescentar nova variável representando a média das coordenadas (Ou seja, obter, para cada instante a média das três coordenadas (X,Y,Z), ao final você deverá ter um vetor de médias ao longo do tempo)" - é dependência de outras tarefas
 - [ ] Veja o grau de correlação da nova variável que criamos em relação às demais coordenadas
+
+tezstes
+
+
+
