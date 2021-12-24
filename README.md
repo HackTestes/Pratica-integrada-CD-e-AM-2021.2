@@ -20,6 +20,8 @@
 
 - [x] Encontrar um aluno de IAM
 - [ ] Configurar os ambientes de desenvolvimento
+   - [ ] Definir as linguagens de programação (python)
+   - [ ] Definir qual banco de dados utilizar (postgreSQL)
 - [ ] Definir estilo do código (padronização e legibilidade)
    - [ ] Como vamos armazenar o código: .py .ipynb
    - [ ] Linguagem do código e dos cometários: português ou inglês
