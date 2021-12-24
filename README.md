@@ -6,10 +6,15 @@
     * [Prerequisites](#prerequisites)
     * [Installation](#installation)
 1. [Usage](#usage)
-1. [Roadmap](#to-do-geral)
-1. [License](#license)
-1. [Contact](#contac)
-1. [Acknowledgements](#acknowledgements)
+1. [Meetings](#Encontros)
+3. [Roadmap](#to-do-geral)
+4. [License](#license)
+5. [Contact](#contac)
+6. [Acknowledgements](#acknowledgements)
+
+## Encontros síncronos
+
+14:00 toda quarta
 
 ## To do geral
 
